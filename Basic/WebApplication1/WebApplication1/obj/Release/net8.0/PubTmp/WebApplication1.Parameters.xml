@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="lucky.local" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\DucTrung\\HVKTQS\\NAM3KI2\\NNLT2\\Basic\\WebApplication1\\WebApplication1\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Data.WeatherForecast>;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+@if(Model != null)
+{
+
+    <p>
+        @Model.FirstOrDefault().Summary
+    </p>
+}
+else
+{
+    <p>
+        no data
+    </p>
+}
+
+
+
+

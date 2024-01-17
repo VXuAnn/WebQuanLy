@@ -1,0 +1,7 @@
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\first\first\bin\Debug\first.exe.config
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\first\first\bin\Debug\first.exe
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\first\first\bin\Debug\first.pdb
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\first\first\obj\Debug\first.csproj.AssemblyReference.cache
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\first\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\first\first\obj\Debug\first.exe
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\first\first\obj\Debug\first.pdb

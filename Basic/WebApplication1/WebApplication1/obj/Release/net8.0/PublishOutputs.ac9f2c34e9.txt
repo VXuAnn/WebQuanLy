@@ -1,0 +1,7 @@
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.exe
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.dll
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.deps.json
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+F:\DucTrung\HVKTQS\NAM3KI2\NNLT2\Basic\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.pdb
